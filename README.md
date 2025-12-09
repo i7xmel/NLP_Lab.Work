@@ -25,6 +25,7 @@ This repository contains 10 practical programs implementing Natural Language Pro
 - Performed POS tagging and frequency distribution analysis
 - Generated n-grams (bigrams, trigrams, quadgrams)
 - Created visualizations for word frequency and POS tag distribution
+  
 
 **Screenshot**
 
